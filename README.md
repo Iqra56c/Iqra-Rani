@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,5 +50,3 @@
             Becoming an efficient and responsible citizen for the Islamic Republic of Pakistan and contributing to the world.
         </p>    
   </body>
-
-</html>   

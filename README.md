@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
        <title>Welcome to My Page</title>
 </head>
@@ -8,4 +6,3 @@
     <p>Click the link below to review my resume:</p>
     <a href=(https://github.com/Iqra56c/newIq.github.io/Resume)>My Resume</a>
 </body>
-</html>
